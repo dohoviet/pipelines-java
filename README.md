@@ -1,5 +1,4 @@
-[![Build Status](https://doho.visualstudio.com/MySecondProject/_apis/build/status/dohoviet.pipelines-java?branchName=master)](https://doho.visualstudio.com/MySecondProject/_build/latest?definitionId=2&branchName=master)
-
+https://doho.visualstudio.com/MySecondProject/_apis/build/status/dohoviet.pipelines-java?branchName=master
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
