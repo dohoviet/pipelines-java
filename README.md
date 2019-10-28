@@ -1,4 +1,4 @@
-[![Board Status](https://doho.visualstudio.com/37643fe1-6c79-4f74-8fc6-6586a4a140a2/1cae74b1-1031-4976-88fa-c617e6ec9457/_apis/work/boardbadge/9f1f4603-2a69-4434-80dc-769122183980)](https://doho.visualstudio.com/37643fe1-6c79-4f74-8fc6-6586a4a140a2/_boards/board/t/1cae74b1-1031-4976-88fa-c617e6ec9457/Microsoft.RequirementCategory/)
+[![Build Status](https://doho.visualstudio.com/MySecondProject/_apis/build/status/dohoviet.pipelines-java?branchName=master)](https://doho.visualstudio.com/MySecondProject/_build/latest?definitionId=2&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
